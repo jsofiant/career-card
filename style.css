@@ -8,3 +8,12 @@ body {
 h1 {
     font-size: 40px;
 }
+
+a {
+    display: inline-block;
+    background-color: black;
+    color: #fff0f5;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 8px;
+}
