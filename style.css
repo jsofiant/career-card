@@ -31,3 +31,34 @@ a {
     border-radius: 10px;
     font-size: 19px;
 }
+
+@media (max-width: 600px) {
+    body {
+        padding: 80px 20px;
+    }
+
+    h1 {
+        font-size: 42px;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+    h2 {
+        font-size: 28px;
+        margin-top: 50px;
+    }
+
+    a {
+        max-width: 100%;
+        padding: 22px;
+        margin: 18px auto;
+        font-size: 21px;
+    }
+
+    a i {
+        font-size: 22px;
+        margin-right: 10px;
+    }
+}
