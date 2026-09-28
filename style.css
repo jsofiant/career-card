@@ -31,6 +31,7 @@ a {
     border: none;
     border-radius: 16px;
     font-size: 19px;
+    box-shadow: 4px 4px 0px #d46a8a;
 }
 
 @media (max-width: 600px) {
