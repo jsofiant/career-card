@@ -28,7 +28,7 @@ a {
     background-color: black;
     color: #fff0f5;
     text-decoration: none;
-    border: 3px dotted #ffccdd;
+    border: 3px double #ffccdd;
     border-radius: 16px;
     font-size: 19px;
 }
